@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Student at Arab Academy for Science and Technology and Maritime Transport passionate about building scalable and modern software solutions.<br>Interested in Cloud Applications, Software Architecture, Design Patterns, Clean Architecture, Databases, and DevOps practices.<br><br>Currently working on BOKRA, a modern medical booking application focused on creating efficient and user-friendly healthcare experiences.<br><br>Always exploring better system design, backend architecture, and scalable application development while improving problem-solving and software engineering skills.
+Software Engineering Student at <a href="https://aast.edu/en/" target="_blank">Arab Academy for Science and Technology and Maritime Transport</a> passionate about building scalable and modern software solutions.<br>Interested in Cloud Applications, Software Architecture, Design Patterns, Clean Architecture, Databases, and DevOps practices.<br><br>Currently working on BOKRA, a modern medical booking application focused on creating efficient and user-friendly healthcare experiences.<br><br>Always exploring better system design, backend architecture, and scalable application development while improving problem-solving and software engineering skills.
 
 
 ## 🌐 Socials:
