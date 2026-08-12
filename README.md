@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Software Engineering Student at &lt;a href="https://aast.edu/en/" target="_blank"&gt;Arab Academy for Science and Technology and Maritime Transport&lt;/a&gt; passionate about building scalable and modern software solutions.  
+Software Engineering Student at <a href="https://aast.edu/en/">Arab Academy for Science and Technology and Maritime Transport</a> passionate about building scalable and modern software solutions.  
 Interested in Cloud Applications, Software Architecture, Design Patterns, Clean Architecture, Databases, and DevOps practices.
 
 ### 🛠️ Tech Stack
